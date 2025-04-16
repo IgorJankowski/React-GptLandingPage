@@ -1,1 +1,1 @@
-https://hudorhashasha.github.io/React-GptLandingPage/
+https://igorjankowski.github.io/React-GptLandingPage/
